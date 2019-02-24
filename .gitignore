@@ -1,2 +1,4 @@
 .d
 *.obj
+gbfade.gb
+util/mos.lib

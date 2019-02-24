@@ -1,6 +1,6 @@
 SRCS = main.asm user.asm pics.asm
 ASMFLAGS = -mcg -z0 -iutil/include
-TARGET = irqtest.gb
+TARGET = gbfade.gb
 
 ASM = motorz80
 LIB = xlib
